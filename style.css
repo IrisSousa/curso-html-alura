@@ -265,4 +265,9 @@ td, th {
     .produtos li {
         width: 97%;
     }
+
+    .lista-nav {
+        text-align: center;
+    }
+
 }
